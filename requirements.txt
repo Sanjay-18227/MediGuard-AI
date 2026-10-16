@@ -1,0 +1,9 @@
+Flask>=2.0,<3.0
+# Add additional dependencies your project requires below, for example:
+# torch==2.2.0
+# transformers==4.0.0
+# scikit-learn==1.2.2
+# pandas==2.2.2
+
+# Optionally include a production server
+gunicorn>=20.0.0
